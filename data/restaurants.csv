@@ -1,0 +1,1001 @@
+Restaurant_id,Restaurant,Category,Price,Neighbourhood,Open_time,Close_time,Average_rating,Good_for_kids
+1,The Caramel Star,Pizza,cheap,Manhattan,11:27,23:41,5,true
+2,The Caramel Star,Danish,expensive,Bronx,5:14,18:37,3,true
+3,The Ruby Spices,Asian,cheap,Brooklyn,4:41,16:55,4,false
+4,The Mountainview Bistro,French,expensive,Queens,0:32,20:13,5,true
+5,The Ruby Spices,Sushi,expensive,Staten Island,2:46,12:16,2,false
+6,The Boiling Dairy,Vegetarian,medium,Brooklyn,6:27,21:45,2,true
+7,The Thai Devil,Seafood,expensive,Queens,4:11,15:51,1,true
+8,The Caramel Star,French,cheap,Queens,3:12,16:57,5,false
+9,The Painted Stranger,Indian,expensive,Bronx,4:42,15:13,5,true
+10,The Ruby Spices,African,medium,Staten Island,6:40,16:21,4,true
+11,The Pearl,African,cheap,Queens,0:05,16:09,3,true
+12,The Garden,Pizza,expensive,Queens,9:40,23:32,4,false
+13,The Crown,Seafood,expensive,Bronx,9:46,16:16,2,false
+14,The Boiling Dairy,Asian,medium,Staten Island,6:45,23:03,4,false
+15,The Pearl,Asian,cheap,Bronx,11:28,19:31,4,true
+16,Modesty,Pizza,medium,Manhattan,10:16,14:55,2,false
+17,The Pearl,Cuban,cheap,Manhattan,3:03,14:02,5,true
+18,The Pearl,Sushi,cheap,Manhattan,8:35,23:41,1,true
+19,The Thai Devil,Spanish,medium,Manhattan,7:41,14:10,2,true
+20,The Imperial Ship,Vegetarian,expensive,Manhattan,7:54,19:56,4,false
+21,Modesty,African,medium,Staten Island,9:22,16:57,3,false
+22,The Pearl,Cuban,expensive,Queens,1:06,14:49,2,false
+23,The Painted Stranger,Indian,cheap,Manhattan,1:42,18:57,1,false
+24,The Boiling Dairy,Sushi,cheap,Staten Island,2:06,16:12,5,false
+25,The Mountainview Bistro,Indian,cheap,Manhattan,6:02,16:54,1,true
+26,The Thai Devil,Seafood,medium,Manhattan,5:54,20:26,1,true
+27,The Noodle Oak,Spanish,expensive,Staten Island,11:56,12:31,4,false
+28,Babylon,Cuban,cheap,Manhattan,6:48,12:19,2,false
+29,The Imperial Ship,Indian,medium,Brooklyn,5:06,20:47,1,true
+30,The Noodle Oak,Cuban,expensive,Brooklyn,1:19,18:50,4,true
+31,The Painted Stranger,Danish,cheap,Staten Island,4:52,23:13,1,true
+32,Modesty,Vegetarian,medium,Bronx,11:40,20:25,3,false
+33,The Crown,Asian,cheap,Brooklyn,9:21,23:40,2,false
+34,The Mountainview Bistro,Spanish,expensive,Brooklyn,9:57,16:18,3,true
+35,The Crown,Seafood,cheap,Brooklyn,9:48,20:19,2,false
+36,The Painted Stranger,French,cheap,Brooklyn,8:34,17:18,4,false
+37,The Caramel Star,Cuban,medium,Queens,11:21,14:46,5,true
+38,The Pearl,Seafood,cheap,Bronx,11:11,22:28,1,true
+39,The Thai Devil,Pizza,cheap,Bronx,5:24,18:42,4,true
+40,Babylon,Seafood,medium,Manhattan,9:26,19:57,1,true
+41,The Greek Tiger,Seafood,cheap,Bronx,7:27,18:49,3,true
+42,The Painted Stranger,Danish,medium,Brooklyn,5:11,16:07,2,true
+43,Babylon,Vegetarian,cheap,Staten Island,5:53,16:43,5,true
+44,The Greek Tiger,African,expensive,Staten Island,10:57,13:24,1,false
+45,The Painted Stranger,Vegetarian,expensive,Staten Island,11:07,20:06,3,false
+46,The Imperial Ship,Pizza,cheap,Queens,0:42,15:31,4,true
+47,The Imperial Ship,Burger,expensive,Bronx,0:40,20:51,5,false
+48,The Private Fiddler,Seafood,medium,Staten Island,1:32,13:07,1,false
+49,The Greek Tiger,African,medium,Queens,1:34,19:41,1,true
+50,The Pearl,Seafood,cheap,Brooklyn,3:40,13:30,1,false
+51,Babylon,Seafood,cheap,Queens,3:57,19:22,5,false
+52,The Crown,African,medium,Staten Island,2:14,19:40,4,true
+53,The Garden,Pizza,cheap,Staten Island,1:01,18:15,4,false
+54,The Private Fiddler,Spanish,medium,Queens,8:19,12:07,3,true
+55,The Imperial Ship,Spanish,cheap,Manhattan,10:25,12:07,1,false
+56,The Painted Stranger,African,medium,Brooklyn,8:48,19:55,4,true
+57,The Thai Devil,Asian,medium,Brooklyn,7:35,23:21,4,true
+58,The Garden,French,medium,Brooklyn,11:02,20:21,4,false
+59,Modesty,Cuban,expensive,Manhattan,6:13,13:04,1,true
+60,The Crown,Burger,medium,Brooklyn,3:24,23:55,1,false
+61,The Private Fiddler,Spanish,medium,Queens,1:43,21:13,4,false
+62,The Caramel Star,Vegetarian,medium,Staten Island,9:40,18:02,1,false
+63,The Garden,Sushi,cheap,Brooklyn,4:05,18:07,5,false
+64,The Thai Devil,Spanish,medium,Queens,6:53,12:06,4,false
+65,The Garden,Cuban,cheap,Queens,1:12,19:39,5,false
+66,The Ruby Spices,Danish,medium,Manhattan,8:39,15:21,1,true
+67,The Greek Tiger,Cuban,medium,Brooklyn,0:31,22:21,4,false
+68,The Private Fiddler,Burger,medium,Bronx,3:51,13:28,2,true
+69,The Crown,African,medium,Staten Island,3:45,16:38,4,false
+70,The Thai Devil,Seafood,cheap,Staten Island,7:35,12:02,5,false
+71,The Mountainview Bistro,Danish,medium,Bronx,6:20,14:05,5,false
+72,The Boiling Dairy,Cuban,expensive,Staten Island,7:24,23:13,4,true
+73,The Crown,Pizza,medium,Bronx,1:37,15:23,4,true
+74,The Crown,Asian,expensive,Brooklyn,1:21,20:14,5,true
+75,The Garden,French,cheap,Queens,4:14,17:32,2,true
+76,The Thai Devil,Cuban,cheap,Bronx,3:52,17:06,5,true
+77,The Noodle Oak,Spanish,expensive,Queens,11:38,22:09,3,true
+78,The Noodle Oak,Indian,cheap,Bronx,3:47,15:48,1,false
+79,The Painted Stranger,French,expensive,Bronx,2:10,22:55,1,false
+80,The Mountainview Bistro,Spanish,cheap,Manhattan,10:48,21:23,2,true
+81,Babylon,Burger,expensive,Manhattan,8:12,17:59,1,false
+82,The Garden,Cuban,cheap,Brooklyn,9:09,19:58,2,false
+83,The Private Fiddler,French,cheap,Bronx,7:09,17:09,4,true
+84,The Mountainview Bistro,Spanish,expensive,Brooklyn,6:47,13:20,3,true
+85,The Noodle Oak,Danish,cheap,Queens,9:30,23:42,2,true
+86,The Boiling Dairy,Cuban,expensive,Staten Island,6:12,14:12,3,true
+87,The Private Fiddler,Indian,medium,Brooklyn,4:41,21:07,1,true
+88,Modesty,Indian,cheap,Bronx,8:19,16:18,3,false
+89,The Pearl,Pizza,expensive,Manhattan,1:09,19:43,4,false
+90,Babylon,African,medium,Queens,11:53,18:32,3,true
+91,The Ruby Spices,Seafood,expensive,Queens,8:03,18:40,4,true
+92,The Thai Devil,Pizza,cheap,Bronx,5:46,20:27,5,true
+93,Modesty,Sushi,expensive,Queens,5:36,16:52,1,true
+94,The Ruby Spices,French,expensive,Manhattan,11:46,12:40,1,false
+95,The Boiling Dairy,Seafood,cheap,Queens,4:50,19:09,1,true
+96,The Pearl,French,medium,Staten Island,4:17,23:10,2,false
+97,The Ruby Spices,Seafood,cheap,Manhattan,11:36,21:12,2,false
+98,The Noodle Oak,Cuban,cheap,Bronx,8:05,16:54,2,true
+99,The Crown,Seafood,expensive,Staten Island,2:38,18:00,1,false
+100,The Noodle Oak,Indian,cheap,Staten Island,5:48,12:06,2,false
+101,The Pearl,Sushi,expensive,Bronx,3:23,12:28,1,false
+102,The Thai Devil,Vegetarian,medium,Brooklyn,5:14,12:13,5,false
+103,Babylon,Asian,expensive,Queens,1:55,19:18,3,false
+104,The Thai Devil,African,medium,Brooklyn,7:27,23:18,4,true
+105,Babylon,Cuban,cheap,Queens,0:44,23:19,2,true
+106,The Ruby Spices,Burger,cheap,Staten Island,9:14,14:13,2,true
+107,The Ruby Spices,Seafood,expensive,Staten Island,10:10,23:08,2,true
+108,Modesty,Danish,cheap,Staten Island,5:41,12:20,5,true
+109,The Ruby Spices,Pizza,expensive,Brooklyn,11:43,14:44,3,false
+110,The Pearl,Vegetarian,cheap,Brooklyn,3:24,23:38,3,false
+111,The Noodle Oak,Burger,expensive,Staten Island,0:15,18:28,5,true
+112,The Greek Tiger,Danish,expensive,Manhattan,6:42,22:01,3,true
+113,The Caramel Star,African,expensive,Staten Island,6:17,23:08,5,false
+114,The Pearl,French,cheap,Staten Island,3:47,16:18,2,true
+115,The Boiling Dairy,Sushi,cheap,Brooklyn,2:49,13:38,5,false
+116,The Thai Devil,Vegetarian,cheap,Queens,1:41,13:20,2,false
+117,The Noodle Oak,Danish,medium,Staten Island,11:31,12:52,1,false
+118,The Caramel Star,African,cheap,Staten Island,1:10,18:47,2,false
+119,Babylon,Seafood,expensive,Manhattan,2:35,23:20,2,true
+120,The Crown,French,expensive,Brooklyn,9:26,12:47,2,true
+121,The Ruby Spices,Danish,cheap,Queens,4:22,14:37,2,false
+122,Modesty,Vegetarian,expensive,Manhattan,10:17,16:17,3,false
+123,The Boiling Dairy,Asian,cheap,Manhattan,10:47,20:46,4,false
+124,The Boiling Dairy,Spanish,expensive,Manhattan,8:02,12:41,3,true
+125,The Painted Stranger,French,medium,Manhattan,7:21,21:09,1,false
+126,The Pearl,Vegetarian,cheap,Queens,1:35,18:18,2,true
+127,Babylon,Spanish,cheap,Bronx,1:25,16:59,2,false
+128,The Garden,Spanish,medium,Bronx,10:37,17:48,1,true
+129,The Garden,Cuban,expensive,Brooklyn,3:21,16:21,2,true
+130,The Private Fiddler,Spanish,expensive,Bronx,0:47,21:50,4,true
+131,The Garden,Indian,medium,Bronx,6:25,13:51,5,true
+132,The Private Fiddler,African,medium,Bronx,1:30,13:16,4,false
+133,The Imperial Ship,Spanish,expensive,Bronx,7:34,18:44,5,true
+134,The Painted Stranger,Asian,medium,Manhattan,10:02,18:53,2,true
+135,The Boiling Dairy,Spanish,medium,Staten Island,0:34,20:53,5,true
+136,The Thai Devil,French,medium,Brooklyn,3:33,12:08,5,true
+137,The Caramel Star,Vegetarian,cheap,Manhattan,5:50,16:38,3,true
+138,The Painted Stranger,Danish,cheap,Manhattan,0:26,15:48,3,false
+139,The Ruby Spices,Danish,expensive,Brooklyn,11:33,16:37,5,true
+140,Babylon,Spanish,medium,Bronx,2:51,12:32,2,false
+141,The Ruby Spices,Pizza,medium,Staten Island,10:28,15:42,4,true
+142,The Mountainview Bistro,Vegetarian,expensive,Queens,0:43,15:09,2,false
+143,The Ruby Spices,Asian,medium,Queens,0:28,23:19,2,true
+144,The Caramel Star,Vegetarian,expensive,Brooklyn,10:35,19:41,1,true
+145,The Caramel Star,Asian,cheap,Staten Island,7:02,19:26,4,true
+146,The Thai Devil,Sushi,expensive,Queens,6:15,14:22,1,true
+147,The Thai Devil,Danish,expensive,Brooklyn,2:35,13:56,5,true
+148,The Pearl,Pizza,expensive,Queens,9:33,23:19,2,true
+149,The Private Fiddler,Cuban,medium,Brooklyn,5:07,21:45,4,false
+150,The Private Fiddler,Vegetarian,medium,Staten Island,5:13,17:35,1,true
+151,The Noodle Oak,Danish,cheap,Brooklyn,11:40,21:47,3,false
+152,Babylon,Pizza,expensive,Bronx,4:33,23:27,5,true
+153,The Ruby Spices,Danish,expensive,Brooklyn,5:37,19:06,5,false
+154,The Thai Devil,Burger,medium,Manhattan,9:19,13:07,2,false
+155,The Thai Devil,French,medium,Manhattan,2:22,22:15,1,false
+156,The Crown,Indian,expensive,Manhattan,6:59,16:21,2,false
+157,The Boiling Dairy,Indian,medium,Staten Island,2:22,23:29,3,false
+158,The Caramel Star,Danish,medium,Brooklyn,2:26,23:34,3,false
+159,The Boiling Dairy,Sushi,medium,Queens,3:36,16:40,4,false
+160,The Painted Stranger,French,cheap,Staten Island,1:41,17:10,5,false
+161,The Greek Tiger,Sushi,expensive,Staten Island,1:40,14:58,5,false
+162,Modesty,Sushi,medium,Staten Island,11:26,22:12,4,true
+163,The Imperial Ship,French,cheap,Bronx,2:25,19:29,3,false
+164,The Thai Devil,Sushi,medium,Staten Island,0:24,17:57,2,false
+165,The Painted Stranger,Indian,expensive,Bronx,10:04,23:05,4,true
+166,The Greek Tiger,Vegetarian,expensive,Queens,3:19,15:01,2,true
+167,The Noodle Oak,Spanish,medium,Brooklyn,7:43,20:21,3,false
+168,The Noodle Oak,Asian,medium,Bronx,1:26,21:40,4,false
+169,The Painted Stranger,Indian,medium,Staten Island,0:48,15:30,4,true
+170,The Ruby Spices,African,cheap,Bronx,5:54,21:12,1,true
+171,The Imperial Ship,Sushi,cheap,Manhattan,3:46,15:28,4,false
+172,The Boiling Dairy,Sushi,medium,Bronx,0:18,23:17,5,true
+173,The Caramel Star,African,expensive,Staten Island,3:21,16:24,3,false
+174,The Noodle Oak,Sushi,medium,Staten Island,5:59,12:43,1,true
+175,The Crown,Asian,expensive,Staten Island,9:43,13:09,1,true
+176,Babylon,Danish,medium,Staten Island,5:52,21:08,2,false
+177,The Boiling Dairy,African,cheap,Staten Island,5:41,21:37,2,false
+178,The Ruby Spices,French,medium,Brooklyn,6:15,16:19,4,true
+179,The Greek Tiger,Cuban,expensive,Bronx,6:59,16:19,4,true
+180,The Private Fiddler,Burger,expensive,Bronx,6:37,14:17,1,false
+181,The Private Fiddler,French,medium,Brooklyn,4:24,19:39,5,false
+182,The Greek Tiger,Seafood,medium,Bronx,10:25,13:28,1,true
+183,The Painted Stranger,French,medium,Brooklyn,5:45,13:49,3,true
+184,The Ruby Spices,Cuban,medium,Bronx,0:07,20:11,2,false
+185,The Crown,Danish,medium,Brooklyn,5:29,23:03,3,true
+186,Babylon,Sushi,medium,Staten Island,5:22,18:23,5,true
+187,The Caramel Star,Seafood,expensive,Bronx,4:14,21:31,1,true
+188,The Pearl,Vegetarian,expensive,Brooklyn,9:48,18:27,5,true
+189,The Ruby Spices,Pizza,expensive,Bronx,9:38,23:29,4,true
+190,Babylon,Burger,cheap,Manhattan,4:50,14:13,2,true
+191,The Thai Devil,Pizza,expensive,Queens,6:54,16:50,5,true
+192,The Pearl,African,cheap,Staten Island,5:44,21:12,3,true
+193,The Ruby Spices,Vegetarian,expensive,Bronx,8:06,12:45,1,true
+194,The Pearl,Cuban,medium,Manhattan,6:34,14:17,4,true
+195,Modesty,Asian,expensive,Staten Island,10:52,15:58,4,false
+196,The Caramel Star,Spanish,cheap,Bronx,6:38,20:21,2,true
+197,The Private Fiddler,Seafood,cheap,Bronx,10:05,17:13,4,false
+198,The Imperial Ship,Burger,medium,Bronx,7:30,17:00,3,true
+199,The Painted Stranger,Indian,cheap,Queens,7:31,21:40,4,true
+200,The Boiling Dairy,French,cheap,Manhattan,10:00,18:05,1,true
+201,The Ruby Spices,Asian,expensive,Bronx,5:01,18:07,3,false
+202,The Pearl,Vegetarian,expensive,Manhattan,4:28,22:52,4,false
+203,The Caramel Star,Spanish,expensive,Queens,10:22,16:41,5,true
+204,The Thai Devil,Cuban,medium,Bronx,0:24,13:37,5,false
+205,The Private Fiddler,Asian,expensive,Brooklyn,7:38,21:43,1,true
+206,Modesty,Indian,cheap,Manhattan,0:02,18:09,1,true
+207,The Boiling Dairy,Seafood,medium,Manhattan,10:07,18:15,4,false
+208,The Ruby Spices,Cuban,expensive,Manhattan,7:53,19:24,5,true
+209,The Imperial Ship,Cuban,medium,Queens,2:49,19:20,1,true
+210,The Garden,Danish,expensive,Manhattan,9:56,21:16,5,true
+211,The Garden,Cuban,medium,Staten Island,6:04,16:06,4,false
+212,The Garden,Asian,expensive,Bronx,3:53,12:36,3,false
+213,The Boiling Dairy,Burger,cheap,Brooklyn,3:04,22:57,1,true
+214,The Pearl,Asian,medium,Bronx,9:35,23:20,1,false
+215,The Caramel Star,Danish,medium,Staten Island,10:43,16:50,2,true
+216,The Painted Stranger,African,expensive,Manhattan,1:43,14:58,2,true
+217,The Ruby Spices,Pizza,cheap,Manhattan,8:34,13:19,2,true
+218,The Noodle Oak,Burger,expensive,Brooklyn,9:06,16:59,1,false
+219,The Noodle Oak,Asian,medium,Manhattan,0:46,22:47,1,true
+220,The Garden,Asian,medium,Brooklyn,1:50,14:12,4,true
+221,The Crown,Seafood,medium,Queens,9:49,21:43,2,true
+222,The Private Fiddler,Burger,medium,Bronx,9:47,16:14,1,false
+223,The Pearl,Vegetarian,medium,Staten Island,4:10,16:16,5,false
+224,The Caramel Star,Cuban,medium,Staten Island,3:29,23:48,5,false
+225,Babylon,Burger,medium,Queens,11:30,19:49,1,false
+226,The Painted Stranger,Asian,cheap,Queens,2:57,22:34,2,false
+227,The Boiling Dairy,Vegetarian,cheap,Bronx,2:11,17:57,5,false
+228,The Imperial Ship,Burger,expensive,Brooklyn,10:28,16:11,3,false
+229,The Greek Tiger,Cuban,expensive,Manhattan,2:16,18:27,5,false
+230,Modesty,Vegetarian,expensive,Bronx,4:57,17:29,2,false
+231,The Crown,Burger,medium,Brooklyn,9:01,14:51,3,true
+232,The Crown,African,medium,Queens,7:52,17:02,3,true
+233,The Ruby Spices,Vegetarian,medium,Bronx,4:19,21:54,3,true
+234,The Garden,French,medium,Staten Island,3:23,14:08,4,true
+235,Modesty,Seafood,cheap,Manhattan,0:43,13:41,1,false
+236,The Noodle Oak,Asian,cheap,Manhattan,4:23,13:52,5,true
+237,The Caramel Star,Burger,expensive,Bronx,5:55,14:11,4,true
+238,The Garden,Asian,medium,Queens,10:02,19:04,4,false
+239,The Private Fiddler,Pizza,medium,Staten Island,3:17,23:45,4,true
+240,The Painted Stranger,Pizza,cheap,Queens,3:51,12:40,2,true
+241,The Boiling Dairy,Indian,cheap,Staten Island,7:24,23:39,4,true
+242,The Noodle Oak,Sushi,medium,Staten Island,7:38,19:09,5,false
+243,The Imperial Ship,Sushi,medium,Bronx,7:24,20:00,3,false
+244,The Garden,Vegetarian,expensive,Staten Island,3:43,17:03,5,true
+245,The Noodle Oak,Spanish,expensive,Staten Island,1:51,15:41,2,false
+246,Modesty,Vegetarian,expensive,Queens,1:02,15:05,4,false
+247,The Painted Stranger,French,cheap,Brooklyn,8:38,21:20,5,false
+248,Modesty,Cuban,cheap,Staten Island,1:12,15:10,2,true
+249,The Crown,Cuban,cheap,Brooklyn,2:43,20:56,3,false
+250,The Boiling Dairy,Danish,cheap,Manhattan,2:16,12:49,1,true
+251,The Thai Devil,Sushi,expensive,Brooklyn,11:40,21:26,4,false
+252,Modesty,Spanish,cheap,Staten Island,9:50,14:37,4,true
+253,The Garden,Burger,medium,Bronx,9:59,14:24,3,false
+254,The Pearl,French,medium,Bronx,1:44,13:28,3,false
+255,The Ruby Spices,Indian,medium,Manhattan,10:39,12:46,2,true
+256,The Painted Stranger,French,cheap,Bronx,8:34,16:45,1,true
+257,Modesty,African,cheap,Bronx,8:21,17:52,2,false
+258,Modesty,Pizza,medium,Queens,6:02,22:24,4,false
+259,The Garden,Seafood,expensive,Brooklyn,5:44,19:32,3,true
+260,The Painted Stranger,French,expensive,Staten Island,2:33,19:05,2,true
+261,The Pearl,African,medium,Bronx,10:19,17:11,4,true
+262,The Caramel Star,Vegetarian,medium,Staten Island,2:18,22:54,2,false
+263,The Pearl,Asian,cheap,Queens,7:05,20:47,4,false
+264,The Private Fiddler,Danish,medium,Brooklyn,3:29,19:45,1,true
+265,The Imperial Ship,French,cheap,Manhattan,9:15,13:11,3,false
+266,The Painted Stranger,Danish,medium,Bronx,7:20,17:32,5,false
+267,The Garden,French,cheap,Bronx,10:39,14:25,2,true
+268,The Greek Tiger,Cuban,cheap,Manhattan,3:46,21:51,3,true
+269,The Noodle Oak,Seafood,cheap,Bronx,1:53,23:52,1,true
+270,The Imperial Ship,Seafood,medium,Queens,5:14,13:31,5,false
+271,The Ruby Spices,Indian,cheap,Manhattan,5:35,21:06,3,false
+272,The Pearl,Asian,cheap,Brooklyn,9:32,22:14,2,true
+273,The Greek Tiger,Cuban,medium,Manhattan,4:02,23:58,2,false
+274,The Pearl,African,expensive,Brooklyn,7:57,14:46,5,false
+275,The Garden,Pizza,expensive,Staten Island,8:25,20:49,3,true
+276,The Mountainview Bistro,Spanish,medium,Queens,9:15,21:35,5,true
+277,The Private Fiddler,Cuban,expensive,Staten Island,7:39,23:04,2,false
+278,Modesty,Asian,medium,Manhattan,9:04,19:39,4,true
+279,The Imperial Ship,African,expensive,Manhattan,7:19,17:19,4,true
+280,The Boiling Dairy,French,medium,Brooklyn,0:17,23:24,2,true
+281,The Mountainview Bistro,Vegetarian,expensive,Bronx,5:08,13:44,1,true
+282,The Boiling Dairy,Spanish,expensive,Manhattan,10:25,17:29,4,true
+283,The Noodle Oak,Seafood,cheap,Brooklyn,1:19,23:12,4,true
+284,The Thai Devil,Indian,medium,Queens,1:19,22:47,4,false
+285,Babylon,Indian,medium,Brooklyn,5:42,18:25,1,true
+286,The Boiling Dairy,Pizza,cheap,Manhattan,0:12,17:44,5,true
+287,Modesty,Seafood,cheap,Manhattan,8:45,12:23,5,false
+288,The Ruby Spices,Vegetarian,expensive,Staten Island,4:52,22:14,2,true
+289,The Pearl,Cuban,medium,Staten Island,5:21,21:32,5,false
+290,The Ruby Spices,Indian,medium,Manhattan,10:57,16:08,2,false
+291,The Caramel Star,Burger,medium,Queens,10:35,15:41,3,false
+292,The Mountainview Bistro,Burger,cheap,Bronx,6:41,15:43,1,false
+293,The Greek Tiger,African,medium,Manhattan,2:30,12:01,5,false
+294,The Caramel Star,Spanish,medium,Bronx,6:05,15:50,2,true
+295,The Imperial Ship,Seafood,expensive,Queens,9:20,20:46,1,true
+296,The Crown,Vegetarian,expensive,Bronx,0:04,15:00,5,false
+297,The Crown,Spanish,cheap,Queens,3:02,23:45,5,true
+298,The Pearl,Pizza,cheap,Staten Island,0:22,21:45,4,false
+299,The Ruby Spices,Indian,expensive,Staten Island,4:27,23:11,1,true
+300,The Painted Stranger,Indian,expensive,Staten Island,3:58,17:59,5,false
+301,The Greek Tiger,Cuban,medium,Staten Island,2:50,23:16,4,false
+302,Babylon,African,cheap,Queens,7:04,14:36,4,false
+303,The Thai Devil,Asian,cheap,Manhattan,3:27,17:27,2,false
+304,The Ruby Spices,Seafood,medium,Brooklyn,10:57,20:29,3,true
+305,The Thai Devil,Indian,expensive,Queens,6:52,22:28,3,false
+306,The Greek Tiger,Vegetarian,medium,Bronx,3:40,22:45,5,true
+307,The Caramel Star,Indian,medium,Brooklyn,0:18,15:00,2,false
+308,The Thai Devil,Spanish,expensive,Queens,6:49,22:16,5,false
+309,The Imperial Ship,Spanish,cheap,Brooklyn,11:14,15:35,5,true
+310,The Painted Stranger,Vegetarian,expensive,Manhattan,1:39,18:41,4,false
+311,The Imperial Ship,Danish,expensive,Staten Island,10:18,19:04,2,true
+312,The Thai Devil,Danish,medium,Manhattan,10:47,21:16,1,true
+313,Modesty,Seafood,cheap,Bronx,0:08,22:02,3,true
+314,The Crown,Cuban,cheap,Staten Island,9:52,14:50,4,false
+315,Babylon,Burger,medium,Brooklyn,4:59,18:40,4,false
+316,The Private Fiddler,Pizza,cheap,Queens,0:13,12:04,4,false
+317,The Ruby Spices,Burger,cheap,Staten Island,6:57,18:24,1,false
+318,The Crown,Spanish,medium,Bronx,5:40,17:05,5,false
+319,The Greek Tiger,Pizza,expensive,Brooklyn,11:41,21:16,1,true
+320,The Private Fiddler,Danish,medium,Brooklyn,8:42,14:25,1,true
+321,The Private Fiddler,French,medium,Queens,10:27,20:27,2,false
+322,The Ruby Spices,Asian,medium,Bronx,10:20,12:07,4,true
+323,The Crown,African,cheap,Manhattan,4:57,16:05,5,false
+324,The Crown,Cuban,medium,Queens,9:53,13:55,3,false
+325,The Crown,Sushi,expensive,Bronx,7:25,22:38,3,false
+326,The Boiling Dairy,African,expensive,Manhattan,3:03,19:41,1,true
+327,The Crown,African,expensive,Brooklyn,7:49,20:46,3,false
+328,Babylon,Asian,expensive,Bronx,2:06,22:49,2,true
+329,The Garden,Sushi,expensive,Staten Island,1:43,15:32,4,false
+330,Modesty,French,medium,Bronx,10:33,15:51,1,false
+331,The Painted Stranger,Pizza,medium,Manhattan,11:28,20:04,1,false
+332,The Boiling Dairy,French,cheap,Staten Island,5:30,16:37,3,true
+333,The Boiling Dairy,Indian,cheap,Staten Island,1:17,19:45,4,false
+334,The Caramel Star,Vegetarian,expensive,Staten Island,2:48,16:44,4,false
+335,The Garden,Asian,cheap,Manhattan,1:46,19:50,2,true
+336,The Garden,Pizza,cheap,Bronx,3:14,12:52,4,false
+337,The Garden,Spanish,expensive,Bronx,7:12,15:53,3,false
+338,The Pearl,Danish,expensive,Manhattan,5:47,22:24,2,false
+339,The Thai Devil,Asian,medium,Manhattan,6:53,15:39,2,false
+340,The Pearl,French,cheap,Brooklyn,1:57,22:17,5,false
+341,The Ruby Spices,Seafood,medium,Queens,3:03,15:27,4,true
+342,The Mountainview Bistro,Asian,cheap,Bronx,3:14,12:37,3,true
+343,The Painted Stranger,Indian,expensive,Manhattan,0:44,21:17,3,false
+344,The Thai Devil,Seafood,medium,Bronx,6:54,21:10,5,false
+345,The Painted Stranger,French,cheap,Bronx,2:39,15:42,5,false
+346,The Ruby Spices,Pizza,cheap,Queens,10:59,22:14,2,false
+347,The Thai Devil,Spanish,cheap,Brooklyn,2:50,20:44,2,true
+348,The Ruby Spices,Danish,expensive,Brooklyn,7:29,23:58,4,true
+349,The Thai Devil,Indian,cheap,Staten Island,8:33,18:25,4,true
+350,The Noodle Oak,Sushi,cheap,Manhattan,11:21,16:55,5,false
+351,The Ruby Spices,Danish,medium,Bronx,2:41,12:26,1,false
+352,The Noodle Oak,Asian,medium,Bronx,6:28,17:30,3,false
+353,The Imperial Ship,Seafood,cheap,Bronx,9:30,20:36,3,true
+354,The Caramel Star,Vegetarian,cheap,Manhattan,2:13,17:34,5,false
+355,Modesty,French,expensive,Bronx,9:08,22:57,2,false
+356,The Painted Stranger,Indian,expensive,Brooklyn,7:39,17:39,4,true
+357,The Crown,Asian,cheap,Queens,11:29,19:40,1,false
+358,The Painted Stranger,Danish,cheap,Manhattan,2:31,12:17,5,false
+359,Babylon,African,cheap,Staten Island,1:26,22:50,4,true
+360,The Private Fiddler,Danish,cheap,Brooklyn,6:31,23:21,5,true
+361,The Painted Stranger,African,cheap,Brooklyn,1:58,15:32,5,false
+362,The Crown,Indian,medium,Queens,11:28,15:38,1,false
+363,The Boiling Dairy,Burger,cheap,Queens,1:22,21:40,4,false
+364,The Ruby Spices,Vegetarian,cheap,Queens,8:13,20:08,2,false
+365,The Caramel Star,French,medium,Manhattan,10:21,12:43,1,false
+366,The Pearl,Cuban,cheap,Bronx,4:46,14:04,4,true
+367,Babylon,African,cheap,Manhattan,11:13,16:55,2,true
+368,The Thai Devil,Seafood,expensive,Queens,5:14,20:59,4,true
+369,The Boiling Dairy,Indian,medium,Manhattan,10:42,18:55,5,true
+370,The Garden,Indian,cheap,Manhattan,0:16,14:44,3,true
+371,Babylon,Burger,expensive,Bronx,9:45,22:44,3,true
+372,The Boiling Dairy,Spanish,medium,Bronx,11:53,19:03,5,false
+373,The Painted Stranger,Asian,cheap,Brooklyn,2:33,20:14,5,false
+374,Modesty,Pizza,medium,Manhattan,0:02,19:14,1,true
+375,The Garden,Danish,cheap,Bronx,11:26,14:41,1,true
+376,The Thai Devil,African,medium,Brooklyn,6:40,19:45,4,false
+377,The Ruby Spices,Indian,expensive,Staten Island,3:58,17:34,1,false
+378,The Imperial Ship,Danish,expensive,Staten Island,11:37,18:25,1,false
+379,The Caramel Star,Danish,cheap,Manhattan,9:09,13:52,1,false
+380,The Crown,Burger,cheap,Bronx,5:57,14:38,1,true
+381,The Boiling Dairy,Sushi,medium,Manhattan,3:38,13:23,2,false
+382,The Imperial Ship,Danish,cheap,Manhattan,3:03,14:59,4,true
+383,The Greek Tiger,Burger,medium,Bronx,2:07,22:14,3,true
+384,The Caramel Star,Indian,cheap,Bronx,1:59,20:09,2,false
+385,The Thai Devil,African,medium,Brooklyn,9:50,20:00,4,false
+386,The Greek Tiger,Sushi,expensive,Staten Island,10:23,23:49,2,true
+387,The Greek Tiger,Asian,medium,Manhattan,0:03,22:03,2,false
+388,The Ruby Spices,African,cheap,Staten Island,2:06,19:16,4,true
+389,The Crown,Burger,cheap,Queens,9:53,22:47,3,false
+390,The Boiling Dairy,French,cheap,Bronx,2:02,15:50,5,false
+391,The Painted Stranger,Indian,expensive,Staten Island,4:53,14:34,2,false
+392,Babylon,Seafood,expensive,Bronx,4:50,16:28,5,true
+393,The Garden,Sushi,expensive,Brooklyn,1:48,18:56,2,true
+394,The Private Fiddler,Spanish,medium,Queens,4:10,17:22,2,true
+395,The Mountainview Bistro,Vegetarian,medium,Staten Island,10:56,12:55,2,false
+396,The Caramel Star,French,cheap,Queens,6:37,15:19,5,false
+397,The Mountainview Bistro,Seafood,expensive,Staten Island,4:36,17:15,4,false
+398,The Painted Stranger,Seafood,medium,Queens,1:48,23:23,2,true
+399,The Noodle Oak,Seafood,cheap,Staten Island,10:06,17:57,2,true
+400,The Ruby Spices,French,cheap,Staten Island,10:07,13:04,2,false
+401,The Private Fiddler,African,cheap,Queens,7:47,22:54,1,false
+402,The Garden,African,expensive,Queens,8:59,13:56,1,true
+403,The Garden,Indian,cheap,Manhattan,1:42,17:02,2,true
+404,The Caramel Star,Cuban,expensive,Queens,4:07,21:44,2,false
+405,The Private Fiddler,Pizza,cheap,Queens,4:50,21:12,4,false
+406,The Private Fiddler,Pizza,cheap,Staten Island,11:42,20:29,3,false
+407,The Caramel Star,Burger,medium,Queens,9:21,21:01,1,false
+408,The Pearl,Spanish,expensive,Manhattan,8:48,23:32,2,true
+409,The Mountainview Bistro,Pizza,cheap,Manhattan,8:33,12:01,2,false
+410,The Mountainview Bistro,Seafood,expensive,Staten Island,6:22,22:44,5,true
+411,Modesty,Sushi,expensive,Bronx,2:39,20:56,4,true
+412,The Mountainview Bistro,Pizza,medium,Brooklyn,10:13,12:55,1,false
+413,The Private Fiddler,Burger,medium,Manhattan,9:09,15:52,4,false
+414,The Painted Stranger,Burger,expensive,Queens,3:07,13:47,5,true
+415,The Pearl,Vegetarian,medium,Brooklyn,3:37,19:17,2,false
+416,The Greek Tiger,Spanish,cheap,Brooklyn,7:06,16:00,5,true
+417,The Private Fiddler,Asian,medium,Brooklyn,5:10,14:50,2,false
+418,The Garden,Spanish,medium,Brooklyn,2:32,19:41,3,false
+419,The Garden,Cuban,medium,Bronx,8:26,17:16,1,true
+420,The Pearl,Cuban,medium,Bronx,8:50,22:23,5,true
+421,The Painted Stranger,Pizza,medium,Bronx,5:00,17:20,4,true
+422,The Crown,Danish,medium,Queens,9:41,14:01,3,true
+423,The Private Fiddler,Indian,medium,Manhattan,6:22,12:21,5,false
+424,Modesty,Asian,cheap,Queens,8:08,20:41,1,false
+425,The Greek Tiger,Seafood,expensive,Brooklyn,7:05,20:59,4,true
+426,The Garden,Vegetarian,cheap,Manhattan,10:51,22:48,2,false
+427,The Imperial Ship,Vegetarian,cheap,Bronx,1:03,16:30,3,false
+428,The Caramel Star,Asian,medium,Queens,9:05,16:29,2,false
+429,The Noodle Oak,Vegetarian,expensive,Staten Island,7:49,21:41,3,true
+430,The Caramel Star,African,expensive,Brooklyn,7:46,14:29,5,true
+431,The Pearl,Danish,medium,Bronx,10:35,13:17,4,true
+432,Babylon,African,medium,Manhattan,7:42,12:25,1,false
+433,The Crown,Indian,cheap,Manhattan,4:05,18:11,5,false
+434,The Caramel Star,Asian,cheap,Manhattan,4:55,23:38,4,true
+435,The Garden,Asian,cheap,Bronx,8:51,16:07,2,false
+436,Babylon,Burger,cheap,Staten Island,4:55,16:09,4,false
+437,The Caramel Star,Seafood,medium,Brooklyn,10:48,13:45,2,true
+438,The Greek Tiger,Seafood,expensive,Staten Island,10:36,17:13,2,false
+439,The Imperial Ship,Indian,cheap,Manhattan,5:03,15:31,3,false
+440,The Crown,Pizza,cheap,Brooklyn,5:57,18:15,3,false
+441,The Private Fiddler,African,medium,Queens,8:47,23:45,5,true
+442,The Caramel Star,Vegetarian,medium,Bronx,10:34,19:14,2,false
+443,The Garden,Pizza,medium,Brooklyn,7:18,20:45,4,false
+444,Modesty,Seafood,medium,Staten Island,10:42,21:02,4,false
+445,The Ruby Spices,Seafood,expensive,Staten Island,3:22,14:00,2,false
+446,The Noodle Oak,Pizza,medium,Brooklyn,6:57,22:42,1,true
+447,The Garden,Asian,medium,Staten Island,0:18,17:13,1,true
+448,The Crown,Asian,medium,Brooklyn,9:49,22:43,1,false
+449,The Pearl,Danish,medium,Manhattan,8:02,13:03,4,true
+450,The Thai Devil,Cuban,medium,Queens,2:47,18:47,3,true
+451,The Ruby Spices,African,cheap,Brooklyn,2:22,23:15,3,true
+452,Modesty,Vegetarian,medium,Staten Island,6:27,23:15,2,false
+453,The Noodle Oak,Cuban,medium,Staten Island,10:19,22:14,3,false
+454,The Painted Stranger,Indian,expensive,Bronx,0:20,12:45,3,false
+455,The Imperial Ship,African,expensive,Bronx,8:14,18:44,3,false
+456,The Pearl,Spanish,medium,Manhattan,7:13,21:08,1,true
+457,The Private Fiddler,French,medium,Bronx,11:49,19:09,5,true
+458,The Caramel Star,Cuban,medium,Staten Island,2:08,19:36,3,true
+459,The Greek Tiger,African,expensive,Queens,4:12,12:37,1,false
+460,The Garden,Sushi,medium,Bronx,6:54,21:07,3,true
+461,The Noodle Oak,Burger,cheap,Manhattan,3:47,13:54,3,true
+462,The Ruby Spices,Vegetarian,medium,Queens,2:20,17:37,4,false
+463,The Pearl,Pizza,cheap,Manhattan,3:25,23:45,5,false
+464,The Caramel Star,Indian,expensive,Staten Island,2:58,14:25,2,true
+465,Babylon,Sushi,expensive,Staten Island,4:08,20:35,3,true
+466,The Private Fiddler,Danish,medium,Bronx,6:28,20:23,4,true
+467,The Crown,Cuban,expensive,Bronx,11:52,16:29,3,true
+468,Babylon,Seafood,medium,Brooklyn,2:13,16:05,2,false
+469,The Pearl,Burger,cheap,Queens,0:13,19:58,1,true
+470,The Mountainview Bistro,Indian,medium,Staten Island,10:32,20:52,2,true
+471,The Private Fiddler,Sushi,medium,Staten Island,11:37,12:37,2,true
+472,The Ruby Spices,Spanish,expensive,Staten Island,10:42,12:09,2,false
+473,Modesty,French,medium,Queens,8:21,14:46,1,true
+474,The Crown,Pizza,medium,Manhattan,7:55,23:24,2,true
+475,The Garden,Seafood,expensive,Manhattan,10:22,14:42,4,false
+476,The Greek Tiger,Burger,cheap,Queens,7:47,22:11,2,true
+477,The Mountainview Bistro,Pizza,expensive,Brooklyn,3:19,20:42,1,false
+478,The Mountainview Bistro,Asian,cheap,Queens,1:03,12:17,3,false
+479,The Boiling Dairy,African,cheap,Bronx,7:34,19:28,2,false
+480,The Greek Tiger,Spanish,cheap,Queens,11:46,21:38,1,false
+481,The Boiling Dairy,Asian,expensive,Brooklyn,6:18,20:41,5,true
+482,The Crown,Danish,medium,Bronx,9:05,19:01,5,true
+483,The Garden,Seafood,expensive,Brooklyn,9:10,22:00,1,true
+484,The Greek Tiger,Asian,cheap,Brooklyn,10:19,19:52,5,false
+485,The Imperial Ship,African,cheap,Queens,11:45,14:58,3,true
+486,The Garden,Indian,medium,Staten Island,7:59,12:26,2,true
+487,The Pearl,Seafood,medium,Queens,7:34,22:08,1,true
+488,Modesty,African,medium,Bronx,1:29,20:03,5,true
+489,The Painted Stranger,Spanish,medium,Staten Island,4:50,14:25,4,false
+490,The Thai Devil,Burger,medium,Staten Island,3:16,15:22,2,true
+491,The Imperial Ship,Indian,cheap,Brooklyn,0:22,12:02,2,false
+492,The Noodle Oak,African,cheap,Bronx,10:32,18:43,4,false
+493,Babylon,Asian,medium,Queens,7:25,22:20,4,false
+494,The Mountainview Bistro,Indian,expensive,Bronx,6:02,17:18,3,true
+495,The Private Fiddler,African,medium,Bronx,7:52,18:26,4,false
+496,The Private Fiddler,Burger,cheap,Queens,0:47,12:39,1,true
+497,The Ruby Spices,Sushi,expensive,Bronx,10:51,20:32,3,true
+498,The Pearl,Danish,medium,Bronx,8:11,19:00,4,false
+499,The Noodle Oak,Pizza,medium,Bronx,3:20,20:42,1,false
+500,The Garden,Cuban,expensive,Queens,0:36,13:16,2,false
+501,The Mountainview Bistro,Indian,expensive,Staten Island,10:50,20:11,2,true
+502,The Private Fiddler,Asian,medium,Queens,2:38,22:03,5,true
+503,The Greek Tiger,Vegetarian,cheap,Queens,1:24,21:25,3,false
+504,The Caramel Star,Indian,medium,Queens,7:57,17:04,5,false
+505,The Garden,Cuban,expensive,Manhattan,4:23,19:51,2,false
+506,The Painted Stranger,French,cheap,Queens,9:29,12:54,5,false
+507,The Thai Devil,Danish,expensive,Queens,8:26,23:37,2,true
+508,The Thai Devil,Vegetarian,expensive,Queens,0:05,20:56,2,false
+509,Babylon,Seafood,cheap,Manhattan,2:29,14:49,3,false
+510,The Pearl,Asian,medium,Manhattan,9:58,20:39,1,false
+511,The Garden,Danish,expensive,Queens,4:19,20:50,1,false
+512,The Greek Tiger,Sushi,medium,Queens,10:09,14:45,5,false
+513,The Mountainview Bistro,Pizza,medium,Brooklyn,6:46,13:35,4,true
+514,The Painted Stranger,Indian,medium,Bronx,2:17,19:59,4,true
+515,The Thai Devil,French,expensive,Staten Island,8:22,22:51,5,false
+516,Babylon,Asian,medium,Staten Island,5:48,20:12,2,true
+517,The Caramel Star,Sushi,cheap,Staten Island,6:13,15:04,3,true
+518,The Thai Devil,Spanish,cheap,Staten Island,7:44,14:59,5,false
+519,Modesty,Indian,expensive,Brooklyn,6:25,23:54,2,false
+520,The Caramel Star,Vegetarian,expensive,Bronx,6:00,13:44,1,true
+521,The Pearl,Sushi,cheap,Bronx,4:04,17:40,3,true
+522,The Painted Stranger,Pizza,cheap,Brooklyn,6:18,14:08,1,false
+523,The Garden,Asian,medium,Manhattan,9:09,18:17,3,true
+524,The Crown,Cuban,cheap,Manhattan,5:01,15:05,4,false
+525,The Greek Tiger,Danish,cheap,Bronx,4:29,20:32,5,false
+526,The Greek Tiger,Danish,medium,Bronx,9:21,17:26,4,true
+527,The Garden,Spanish,medium,Brooklyn,2:23,17:12,5,true
+528,The Imperial Ship,Seafood,medium,Queens,6:15,15:32,4,true
+529,The Pearl,Asian,expensive,Manhattan,1:52,14:07,5,true
+530,The Painted Stranger,Pizza,expensive,Manhattan,5:48,14:57,4,false
+531,The Greek Tiger,Seafood,medium,Manhattan,10:20,21:44,5,false
+532,Babylon,Burger,expensive,Manhattan,8:38,23:38,1,false
+533,The Private Fiddler,Burger,medium,Bronx,9:21,14:14,3,true
+534,The Pearl,Spanish,cheap,Staten Island,2:49,16:15,4,false
+535,The Thai Devil,French,medium,Staten Island,7:01,14:02,3,true
+536,The Crown,African,cheap,Staten Island,3:17,13:49,2,true
+537,The Boiling Dairy,African,medium,Staten Island,9:33,19:35,3,true
+538,Babylon,Spanish,expensive,Manhattan,3:32,22:19,3,true
+539,The Painted Stranger,Burger,medium,Brooklyn,6:42,22:46,2,true
+540,The Crown,Seafood,medium,Bronx,6:22,12:56,5,false
+541,The Private Fiddler,Spanish,expensive,Brooklyn,9:28,12:28,5,true
+542,The Noodle Oak,Vegetarian,expensive,Bronx,3:22,16:19,1,true
+543,The Noodle Oak,Spanish,expensive,Staten Island,0:33,13:23,1,false
+544,The Greek Tiger,Seafood,medium,Staten Island,4:28,18:28,3,false
+545,The Thai Devil,French,expensive,Queens,4:23,23:28,1,true
+546,The Ruby Spices,Spanish,medium,Manhattan,3:05,20:11,1,false
+547,The Crown,Spanish,medium,Manhattan,1:50,22:22,3,false
+548,The Thai Devil,Indian,medium,Manhattan,10:51,22:15,4,true
+549,The Crown,African,expensive,Staten Island,2:39,18:11,5,false
+550,The Noodle Oak,Indian,medium,Brooklyn,2:03,20:25,4,false
+551,The Ruby Spices,Vegetarian,medium,Staten Island,7:51,19:58,5,false
+552,The Private Fiddler,Vegetarian,medium,Bronx,9:36,20:34,4,true
+553,The Thai Devil,Burger,expensive,Brooklyn,7:19,12:04,3,false
+554,The Imperial Ship,Pizza,medium,Queens,6:45,20:34,5,false
+555,The Boiling Dairy,Vegetarian,medium,Bronx,10:41,22:42,1,true
+556,The Garden,Sushi,medium,Manhattan,3:42,15:57,2,true
+557,The Greek Tiger,Spanish,medium,Brooklyn,10:08,21:00,3,false
+558,The Garden,Burger,medium,Queens,4:34,18:38,1,false
+559,The Private Fiddler,Seafood,cheap,Bronx,3:21,23:53,4,true
+560,The Painted Stranger,Burger,cheap,Bronx,0:12,16:31,4,false
+561,Modesty,Sushi,medium,Staten Island,3:40,15:44,1,true
+562,The Imperial Ship,Burger,cheap,Brooklyn,0:33,17:16,4,true
+563,The Boiling Dairy,Danish,expensive,Staten Island,0:21,13:12,4,false
+564,Babylon,Cuban,expensive,Manhattan,5:00,14:28,4,false
+565,The Caramel Star,Spanish,expensive,Queens,3:25,20:00,3,false
+566,The Boiling Dairy,Indian,cheap,Staten Island,4:34,23:17,5,false
+567,The Thai Devil,African,medium,Brooklyn,6:26,12:28,3,true
+568,The Private Fiddler,Burger,cheap,Staten Island,8:23,13:39,2,true
+569,Modesty,Spanish,expensive,Staten Island,8:55,22:27,4,true
+570,The Garden,Asian,medium,Staten Island,9:10,21:45,1,true
+571,The Imperial Ship,Cuban,cheap,Staten Island,0:29,15:05,4,false
+572,The Imperial Ship,Pizza,medium,Staten Island,2:10,15:54,2,true
+573,Modesty,Seafood,expensive,Staten Island,3:30,18:47,5,true
+574,The Pearl,African,medium,Manhattan,5:20,20:17,3,false
+575,The Boiling Dairy,Cuban,medium,Bronx,6:02,14:58,5,false
+576,Babylon,Danish,cheap,Staten Island,1:13,20:06,2,true
+577,The Crown,Cuban,medium,Bronx,4:56,17:10,5,false
+578,The Mountainview Bistro,French,cheap,Queens,10:36,23:09,4,false
+579,The Garden,Seafood,medium,Staten Island,3:19,20:54,5,false
+580,Babylon,Vegetarian,expensive,Staten Island,5:14,20:12,2,true
+581,The Boiling Dairy,French,medium,Brooklyn,7:40,20:36,1,true
+582,The Private Fiddler,Spanish,medium,Brooklyn,0:44,23:57,3,true
+583,The Ruby Spices,Vegetarian,expensive,Queens,11:54,18:58,4,false
+584,The Imperial Ship,French,medium,Brooklyn,0:10,12:28,3,false
+585,Modesty,Spanish,medium,Manhattan,9:53,23:36,3,false
+586,Babylon,Spanish,cheap,Queens,9:32,17:49,4,false
+587,The Greek Tiger,Sushi,medium,Staten Island,11:00,15:06,4,true
+588,The Pearl,Pizza,expensive,Queens,3:29,19:41,3,false
+589,The Mountainview Bistro,Pizza,cheap,Queens,6:00,12:14,2,false
+590,The Imperial Ship,Seafood,expensive,Bronx,4:30,12:28,3,false
+591,The Noodle Oak,Pizza,expensive,Manhattan,3:36,23:21,5,false
+592,The Garden,Cuban,expensive,Brooklyn,10:18,18:13,2,false
+593,The Boiling Dairy,Asian,expensive,Brooklyn,5:04,23:58,4,true
+594,The Greek Tiger,Danish,expensive,Manhattan,4:51,12:10,3,false
+595,The Thai Devil,Burger,cheap,Brooklyn,3:26,21:17,5,true
+596,The Imperial Ship,African,medium,Manhattan,3:47,23:02,5,true
+597,The Thai Devil,Vegetarian,medium,Bronx,8:34,23:26,1,false
+598,The Greek Tiger,French,medium,Brooklyn,0:34,14:52,2,true
+599,The Ruby Spices,Danish,expensive,Queens,7:15,14:13,5,false
+600,The Garden,Asian,cheap,Bronx,2:48,21:23,4,true
+601,The Mountainview Bistro,Asian,cheap,Bronx,10:11,14:54,2,true
+602,The Crown,Seafood,expensive,Queens,9:18,22:56,4,false
+603,The Noodle Oak,French,cheap,Bronx,4:50,23:58,4,false
+604,The Greek Tiger,Asian,cheap,Queens,2:36,21:51,1,true
+605,The Pearl,Danish,medium,Queens,5:06,15:36,3,true
+606,The Ruby Spices,Asian,expensive,Brooklyn,11:07,23:03,2,false
+607,The Pearl,African,expensive,Queens,7:09,21:02,1,false
+608,The Ruby Spices,Seafood,expensive,Bronx,9:35,20:57,3,true
+609,The Garden,Indian,cheap,Bronx,1:39,14:01,5,false
+610,The Pearl,Asian,cheap,Bronx,1:59,18:00,5,false
+611,Babylon,Indian,expensive,Brooklyn,6:07,18:14,4,true
+612,The Painted Stranger,Sushi,expensive,Queens,1:57,15:46,1,true
+613,Babylon,Sushi,medium,Bronx,9:37,14:05,3,true
+614,Babylon,Burger,medium,Brooklyn,2:35,14:48,2,true
+615,The Pearl,African,medium,Manhattan,1:56,13:34,3,true
+616,The Caramel Star,Indian,cheap,Manhattan,4:25,21:10,5,false
+617,The Ruby Spices,Burger,cheap,Bronx,5:35,13:01,1,false
+618,The Caramel Star,Seafood,cheap,Manhattan,8:48,12:39,5,true
+619,The Mountainview Bistro,Seafood,cheap,Manhattan,5:00,19:08,5,false
+620,The Noodle Oak,African,cheap,Queens,0:40,15:06,4,false
+621,Babylon,Indian,cheap,Bronx,8:23,17:20,3,true
+622,The Greek Tiger,Indian,expensive,Queens,2:31,15:18,1,true
+623,Modesty,Asian,expensive,Bronx,8:22,14:29,3,false
+624,The Garden,Asian,cheap,Queens,6:08,18:21,2,true
+625,The Ruby Spices,Seafood,cheap,Manhattan,1:03,21:03,4,true
+626,The Private Fiddler,Indian,cheap,Bronx,0:27,16:09,1,true
+627,Babylon,Vegetarian,medium,Brooklyn,8:38,23:25,4,true
+628,Modesty,Sushi,medium,Manhattan,1:15,14:26,5,true
+629,The Garden,Asian,expensive,Brooklyn,2:04,14:51,3,false
+630,The Imperial Ship,Burger,expensive,Brooklyn,11:10,15:33,5,false
+631,Babylon,Cuban,expensive,Bronx,3:31,22:17,5,true
+632,The Greek Tiger,Vegetarian,medium,Brooklyn,7:41,18:40,3,true
+633,The Ruby Spices,Sushi,cheap,Queens,11:28,12:12,5,true
+634,Modesty,Danish,cheap,Queens,6:29,19:10,1,false
+635,Babylon,French,medium,Brooklyn,0:13,18:35,3,true
+636,The Boiling Dairy,Spanish,expensive,Brooklyn,7:09,20:24,4,false
+637,The Caramel Star,Danish,cheap,Queens,11:42,18:10,5,false
+638,The Noodle Oak,Seafood,medium,Staten Island,6:12,14:47,4,true
+639,Babylon,Seafood,medium,Bronx,9:40,15:55,2,true
+640,The Ruby Spices,Spanish,expensive,Staten Island,6:28,21:48,5,false
+641,The Imperial Ship,African,medium,Staten Island,10:41,19:32,4,true
+642,The Thai Devil,Spanish,expensive,Manhattan,10:55,18:17,1,true
+643,The Mountainview Bistro,Pizza,expensive,Bronx,9:13,13:57,1,true
+644,The Mountainview Bistro,Pizza,expensive,Manhattan,5:25,14:17,2,true
+645,The Caramel Star,Danish,cheap,Bronx,2:51,19:58,4,true
+646,The Imperial Ship,Seafood,medium,Brooklyn,5:15,22:02,5,true
+647,Modesty,Cuban,medium,Queens,5:17,23:41,3,false
+648,The Crown,Vegetarian,expensive,Staten Island,1:16,18:42,3,true
+649,Modesty,Sushi,expensive,Bronx,3:17,14:22,2,false
+650,The Thai Devil,Burger,cheap,Brooklyn,1:45,18:41,3,false
+651,The Imperial Ship,Burger,expensive,Queens,2:42,14:46,3,false
+652,The Pearl,Seafood,medium,Staten Island,6:34,17:19,1,true
+653,Babylon,Burger,medium,Manhattan,6:08,19:23,3,false
+654,The Private Fiddler,Cuban,expensive,Manhattan,3:36,14:48,2,false
+655,The Ruby Spices,Asian,expensive,Brooklyn,4:53,12:56,1,true
+656,The Painted Stranger,Vegetarian,medium,Brooklyn,1:49,17:50,3,false
+657,The Pearl,Spanish,medium,Bronx,1:58,20:52,3,false
+658,The Caramel Star,Vegetarian,cheap,Manhattan,1:39,23:26,4,true
+659,The Pearl,Cuban,medium,Brooklyn,0:09,18:56,5,false
+660,The Private Fiddler,Seafood,expensive,Bronx,2:44,13:18,4,true
+661,Modesty,Vegetarian,medium,Brooklyn,4:20,13:38,1,false
+662,The Painted Stranger,African,expensive,Staten Island,4:24,13:38,4,false
+663,The Boiling Dairy,Cuban,expensive,Staten Island,0:30,18:04,2,false
+664,The Thai Devil,African,expensive,Staten Island,0:44,21:09,5,false
+665,The Garden,Cuban,cheap,Queens,2:24,13:59,1,true
+666,The Private Fiddler,Vegetarian,cheap,Queens,10:29,23:48,1,true
+667,The Painted Stranger,French,medium,Brooklyn,10:44,20:06,5,false
+668,The Thai Devil,Seafood,expensive,Queens,1:01,20:28,1,false
+669,The Garden,Cuban,medium,Manhattan,4:52,12:54,5,true
+670,The Ruby Spices,Danish,cheap,Staten Island,8:59,16:07,3,false
+671,The Greek Tiger,Asian,expensive,Queens,7:47,12:53,3,true
+672,Babylon,Vegetarian,expensive,Brooklyn,7:31,13:46,4,true
+673,The Pearl,African,medium,Manhattan,1:36,21:49,3,false
+674,The Caramel Star,Spanish,cheap,Queens,0:12,12:09,4,true
+675,The Ruby Spices,Indian,medium,Manhattan,1:41,19:28,4,false
+676,The Painted Stranger,Spanish,medium,Queens,6:47,12:49,2,false
+677,The Greek Tiger,Spanish,medium,Manhattan,11:54,16:17,2,false
+678,The Ruby Spices,Seafood,expensive,Brooklyn,2:07,20:59,4,false
+679,Modesty,French,medium,Bronx,7:05,21:57,3,false
+680,The Greek Tiger,African,cheap,Queens,11:30,13:16,3,false
+681,The Painted Stranger,Vegetarian,expensive,Bronx,11:43,18:22,1,false
+682,The Pearl,Seafood,cheap,Manhattan,0:03,18:56,2,true
+683,The Greek Tiger,Asian,medium,Staten Island,1:53,19:58,1,true
+684,The Greek Tiger,Sushi,expensive,Bronx,3:26,12:34,5,false
+685,The Ruby Spices,Pizza,expensive,Queens,8:44,23:22,2,true
+686,The Noodle Oak,French,cheap,Manhattan,4:43,18:08,2,true
+687,Babylon,Burger,cheap,Manhattan,2:22,21:00,2,true
+688,The Caramel Star,Cuban,expensive,Brooklyn,7:20,12:22,2,false
+689,The Thai Devil,Indian,cheap,Queens,5:49,14:26,4,false
+690,The Private Fiddler,Indian,cheap,Manhattan,4:16,16:14,5,true
+691,The Boiling Dairy,Indian,expensive,Staten Island,0:54,17:19,3,false
+692,The Caramel Star,Spanish,expensive,Brooklyn,11:10,15:19,4,false
+693,The Greek Tiger,Sushi,medium,Brooklyn,1:12,18:30,4,true
+694,The Pearl,Asian,cheap,Queens,1:47,19:46,4,true
+695,The Crown,Pizza,cheap,Brooklyn,7:02,23:32,4,true
+696,The Mountainview Bistro,Danish,expensive,Staten Island,9:42,18:47,2,false
+697,The Mountainview Bistro,Asian,expensive,Staten Island,8:48,22:41,5,false
+698,The Private Fiddler,Vegetarian,expensive,Staten Island,9:52,20:21,4,false
+699,The Caramel Star,Asian,expensive,Bronx,7:19,18:33,2,true
+700,The Ruby Spices,Danish,cheap,Queens,10:58,16:42,4,false
+701,The Noodle Oak,Sushi,medium,Queens,3:17,21:25,2,false
+702,The Private Fiddler,Seafood,cheap,Staten Island,9:27,13:45,5,true
+703,Babylon,Indian,cheap,Brooklyn,4:47,23:52,2,false
+704,The Private Fiddler,African,medium,Manhattan,6:44,16:24,4,false
+705,The Boiling Dairy,Vegetarian,cheap,Bronx,10:12,21:15,1,false
+706,The Private Fiddler,Danish,cheap,Manhattan,10:19,14:51,5,false
+707,The Ruby Spices,Indian,cheap,Staten Island,0:27,15:38,3,false
+708,The Garden,Sushi,cheap,Queens,10:46,18:49,5,false
+709,The Mountainview Bistro,Sushi,medium,Manhattan,2:18,18:06,5,true
+710,The Noodle Oak,Sushi,cheap,Queens,4:52,17:59,4,false
+711,The Noodle Oak,Spanish,expensive,Bronx,9:49,17:59,5,false
+712,Modesty,Spanish,medium,Staten Island,2:34,23:13,1,true
+713,Babylon,Cuban,expensive,Staten Island,11:21,16:07,1,false
+714,The Greek Tiger,Vegetarian,cheap,Queens,9:16,20:57,2,true
+715,Babylon,Cuban,medium,Staten Island,11:04,13:10,5,true
+716,The Boiling Dairy,Danish,expensive,Bronx,10:32,20:47,1,false
+717,The Caramel Star,Vegetarian,cheap,Bronx,2:14,14:55,4,false
+718,Modesty,Danish,expensive,Manhattan,10:29,20:52,4,true
+719,The Private Fiddler,Seafood,cheap,Bronx,0:10,15:29,5,false
+720,Babylon,Pizza,cheap,Staten Island,8:11,23:22,1,false
+721,The Crown,Cuban,expensive,Bronx,10:19,13:03,4,false
+722,The Boiling Dairy,Danish,medium,Queens,6:00,22:10,3,false
+723,The Noodle Oak,Danish,expensive,Bronx,7:25,21:59,2,false
+724,The Boiling Dairy,African,expensive,Queens,5:16,18:08,4,false
+725,The Thai Devil,French,cheap,Bronx,4:43,18:50,5,true
+726,The Caramel Star,Burger,expensive,Staten Island,11:27,18:47,1,true
+727,The Painted Stranger,Pizza,cheap,Queens,10:14,14:47,2,false
+728,The Crown,French,medium,Manhattan,2:52,15:35,5,false
+729,The Mountainview Bistro,Sushi,cheap,Staten Island,0:20,23:29,5,false
+730,Modesty,African,expensive,Staten Island,1:14,19:02,4,true
+731,The Caramel Star,Cuban,cheap,Bronx,3:09,17:01,4,true
+732,The Crown,Vegetarian,expensive,Bronx,11:11,20:24,3,false
+733,The Crown,Indian,expensive,Bronx,4:13,18:55,5,false
+734,The Private Fiddler,Burger,expensive,Manhattan,7:28,20:20,4,true
+735,The Garden,Asian,medium,Manhattan,7:24,17:57,3,true
+736,The Private Fiddler,Asian,cheap,Manhattan,9:50,12:58,3,false
+737,The Greek Tiger,Indian,cheap,Staten Island,0:22,21:04,3,true
+738,The Noodle Oak,Danish,expensive,Bronx,10:02,22:36,3,false
+739,The Mountainview Bistro,Asian,medium,Brooklyn,0:15,23:13,4,true
+740,The Garden,Seafood,cheap,Staten Island,11:42,17:49,3,false
+741,The Ruby Spices,Cuban,medium,Bronx,3:03,12:50,2,true
+742,The Pearl,Pizza,medium,Queens,1:00,21:13,4,false
+743,The Thai Devil,Vegetarian,expensive,Queens,9:26,18:19,2,true
+744,The Crown,Seafood,cheap,Bronx,0:45,23:39,3,true
+745,Babylon,French,cheap,Bronx,10:29,13:42,5,true
+746,Modesty,Indian,expensive,Brooklyn,7:08,20:46,3,true
+747,The Noodle Oak,Asian,expensive,Staten Island,8:27,14:19,1,false
+748,The Noodle Oak,French,medium,Bronx,5:09,12:52,1,false
+749,The Crown,Seafood,medium,Staten Island,6:41,23:31,2,true
+750,The Noodle Oak,Pizza,expensive,Staten Island,8:05,12:38,4,true
+751,The Painted Stranger,Spanish,medium,Bronx,7:00,13:45,4,true
+752,The Mountainview Bistro,Pizza,medium,Brooklyn,10:26,17:18,3,true
+753,The Mountainview Bistro,African,expensive,Brooklyn,6:11,12:59,3,true
+754,The Thai Devil,French,medium,Brooklyn,8:45,18:08,3,false
+755,Modesty,Spanish,expensive,Manhattan,3:48,20:41,3,true
+756,The Painted Stranger,Indian,expensive,Staten Island,0:24,17:38,4,true
+757,The Crown,Spanish,cheap,Brooklyn,11:33,18:55,2,true
+758,The Crown,Burger,cheap,Bronx,11:04,13:13,4,true
+759,The Thai Devil,French,medium,Bronx,4:29,16:02,3,false
+760,The Painted Stranger,Pizza,medium,Manhattan,3:53,18:51,3,false
+761,The Crown,Spanish,medium,Staten Island,4:08,12:49,1,true
+762,The Private Fiddler,African,cheap,Queens,6:37,15:28,3,false
+763,The Crown,Spanish,expensive,Manhattan,3:46,19:34,4,false
+764,The Greek Tiger,Indian,medium,Staten Island,3:07,17:14,3,true
+765,Babylon,Vegetarian,medium,Manhattan,8:38,21:58,2,true
+766,The Ruby Spices,Burger,medium,Brooklyn,5:41,19:25,4,true
+767,Babylon,Sushi,medium,Staten Island,0:37,15:06,4,true
+768,Babylon,French,cheap,Manhattan,0:12,20:22,5,true
+769,The Crown,Pizza,medium,Bronx,10:29,19:41,2,true
+770,The Boiling Dairy,Indian,medium,Queens,0:35,13:41,3,false
+771,The Garden,Asian,cheap,Bronx,2:41,12:15,3,true
+772,The Ruby Spices,Sushi,cheap,Brooklyn,10:44,12:06,1,true
+773,The Pearl,Seafood,expensive,Staten Island,2:33,13:01,1,true
+774,The Caramel Star,African,medium,Manhattan,0:22,13:03,3,false
+775,The Boiling Dairy,Cuban,cheap,Manhattan,8:47,14:25,2,true
+776,The Private Fiddler,Indian,cheap,Brooklyn,6:19,19:18,3,false
+777,The Greek Tiger,Vegetarian,cheap,Bronx,4:15,15:16,3,false
+778,The Pearl,Danish,cheap,Bronx,0:43,14:07,2,false
+779,The Noodle Oak,French,cheap,Queens,5:41,22:10,3,true
+780,The Thai Devil,African,cheap,Queens,1:21,16:07,1,false
+781,Modesty,Asian,expensive,Bronx,4:07,14:01,2,false
+782,The Imperial Ship,Burger,medium,Queens,1:03,14:32,2,true
+783,Babylon,Vegetarian,cheap,Brooklyn,7:45,18:03,3,false
+784,The Crown,Pizza,expensive,Queens,6:09,23:42,5,false
+785,Modesty,Burger,expensive,Bronx,3:24,16:29,5,true
+786,The Noodle Oak,African,medium,Brooklyn,2:59,12:15,1,false
+787,The Garden,Indian,cheap,Brooklyn,11:29,19:56,5,false
+788,The Pearl,Indian,medium,Queens,0:26,17:22,5,false
+789,Babylon,Sushi,medium,Bronx,4:40,14:27,1,false
+790,The Imperial Ship,Burger,medium,Staten Island,7:31,19:41,2,true
+791,The Painted Stranger,Spanish,expensive,Bronx,9:56,13:48,5,false
+792,The Garden,Seafood,cheap,Brooklyn,8:51,17:20,2,true
+793,The Crown,Pizza,cheap,Brooklyn,5:39,22:42,5,false
+794,The Thai Devil,Spanish,cheap,Staten Island,10:01,16:29,1,true
+795,The Mountainview Bistro,Seafood,cheap,Manhattan,4:08,13:06,1,true
+796,Modesty,Spanish,cheap,Queens,6:49,15:33,1,false
+797,The Boiling Dairy,Seafood,medium,Manhattan,8:32,13:09,1,true
+798,The Boiling Dairy,Spanish,expensive,Manhattan,11:14,23:15,1,true
+799,The Private Fiddler,Danish,expensive,Bronx,0:39,14:01,2,false
+800,The Ruby Spices,Burger,expensive,Queens,10:26,23:18,5,false
+801,Modesty,Seafood,cheap,Staten Island,8:58,15:05,4,false
+802,The Noodle Oak,Spanish,expensive,Manhattan,5:21,12:15,1,true
+803,The Mountainview Bistro,Asian,expensive,Bronx,0:36,14:46,5,true
+804,The Pearl,Sushi,cheap,Bronx,8:42,23:16,1,false
+805,The Pearl,Vegetarian,expensive,Bronx,1:56,15:54,5,true
+806,The Greek Tiger,Sushi,medium,Brooklyn,2:49,21:36,4,true
+807,The Painted Stranger,Asian,cheap,Queens,9:39,23:01,5,false
+808,The Boiling Dairy,Burger,cheap,Bronx,10:34,23:34,4,false
+809,The Imperial Ship,Cuban,expensive,Queens,6:07,14:49,1,true
+810,The Thai Devil,Spanish,expensive,Queens,0:04,13:38,1,true
+811,The Painted Stranger,Vegetarian,cheap,Staten Island,1:58,19:00,1,true
+812,The Boiling Dairy,Seafood,cheap,Bronx,3:26,22:30,2,true
+813,The Boiling Dairy,Sushi,expensive,Manhattan,7:03,19:03,4,true
+814,The Crown,Asian,medium,Queens,1:31,20:34,1,true
+815,The Mountainview Bistro,Pizza,expensive,Queens,6:25,12:05,5,true
+816,The Mountainview Bistro,African,expensive,Staten Island,10:32,18:05,2,true
+817,The Boiling Dairy,Seafood,cheap,Bronx,10:43,12:10,3,false
+818,The Ruby Spices,Danish,cheap,Manhattan,11:25,14:10,1,true
+819,The Private Fiddler,African,medium,Staten Island,3:46,21:04,4,false
+820,The Mountainview Bistro,Danish,cheap,Bronx,7:42,13:13,5,true
+821,The Thai Devil,Cuban,cheap,Manhattan,5:53,19:17,2,false
+822,Babylon,Cuban,medium,Bronx,4:34,12:29,4,false
+823,The Greek Tiger,Seafood,medium,Queens,6:31,19:10,3,false
+824,The Thai Devil,Asian,medium,Queens,5:09,16:22,5,false
+825,The Painted Stranger,Pizza,medium,Queens,10:42,20:52,4,false
+826,The Noodle Oak,Sushi,expensive,Brooklyn,3:30,13:11,4,true
+827,The Crown,Burger,medium,Brooklyn,3:10,20:06,5,true
+828,The Crown,Sushi,medium,Staten Island,10:12,20:46,5,false
+829,The Private Fiddler,Seafood,medium,Manhattan,8:56,21:10,3,true
+830,The Painted Stranger,Pizza,expensive,Bronx,7:06,18:25,1,false
+831,Babylon,Asian,medium,Queens,10:40,15:27,2,true
+832,The Garden,Seafood,medium,Staten Island,9:52,12:58,3,true
+833,The Painted Stranger,Sushi,medium,Staten Island,9:11,23:39,3,true
+834,The Noodle Oak,Danish,medium,Bronx,0:57,19:59,4,true
+835,The Crown,Seafood,expensive,Brooklyn,6:00,15:10,5,false
+836,The Mountainview Bistro,Seafood,cheap,Queens,10:39,22:04,1,false
+837,The Ruby Spices,Danish,expensive,Brooklyn,5:35,23:36,2,true
+838,The Pearl,Seafood,medium,Staten Island,9:58,13:48,2,true
+839,Babylon,Indian,expensive,Staten Island,6:31,18:02,1,false
+840,Modesty,Danish,medium,Brooklyn,2:45,14:32,2,false
+841,The Mountainview Bistro,Indian,expensive,Manhattan,1:25,18:39,5,true
+842,The Garden,Indian,cheap,Queens,3:24,18:32,2,true
+843,The Garden,Danish,medium,Queens,7:08,12:01,3,false
+844,The Crown,Vegetarian,cheap,Bronx,7:42,12:38,2,false
+845,The Ruby Spices,Indian,cheap,Brooklyn,9:09,18:38,2,true
+846,The Garden,Sushi,medium,Brooklyn,10:33,12:36,3,false
+847,The Garden,Asian,medium,Staten Island,8:05,22:12,1,false
+848,Modesty,Vegetarian,medium,Bronx,6:02,14:59,3,true
+849,The Thai Devil,Vegetarian,medium,Queens,5:05,22:54,2,true
+850,The Noodle Oak,Sushi,medium,Staten Island,10:11,18:00,5,true
+851,The Private Fiddler,Sushi,expensive,Manhattan,7:26,17:45,5,true
+852,The Boiling Dairy,African,cheap,Bronx,3:39,21:47,2,true
+853,The Greek Tiger,Sushi,expensive,Brooklyn,5:21,13:05,3,true
+854,Modesty,Spanish,expensive,Brooklyn,7:04,13:44,3,false
+855,The Caramel Star,Pizza,cheap,Bronx,11:09,21:42,3,true
+856,The Private Fiddler,Danish,medium,Bronx,11:53,12:52,3,false
+857,The Boiling Dairy,French,cheap,Manhattan,2:59,19:09,2,true
+858,The Boiling Dairy,African,cheap,Manhattan,4:38,22:32,3,false
+859,Babylon,African,medium,Brooklyn,9:47,16:07,1,false
+860,The Ruby Spices,Cuban,medium,Manhattan,10:27,15:27,1,false
+861,The Private Fiddler,Spanish,medium,Queens,7:35,20:15,2,false
+862,The Caramel Star,Sushi,cheap,Brooklyn,4:10,23:44,3,true
+863,The Mountainview Bistro,Danish,expensive,Bronx,11:50,14:33,5,true
+864,Babylon,Indian,cheap,Manhattan,8:51,21:16,3,true
+865,The Crown,Asian,cheap,Bronx,7:40,20:34,4,false
+866,The Caramel Star,Danish,medium,Staten Island,9:47,20:32,5,true
+867,The Garden,Pizza,medium,Manhattan,6:02,19:28,3,false
+868,The Crown,Indian,expensive,Brooklyn,7:10,23:19,2,true
+869,The Ruby Spices,Cuban,medium,Queens,3:15,14:18,5,true
+870,The Painted Stranger,Pizza,cheap,Queens,1:30,22:09,3,true
+871,The Caramel Star,Cuban,cheap,Brooklyn,10:28,21:19,3,true
+872,The Greek Tiger,African,medium,Queens,4:11,13:22,2,false
+873,The Pearl,Sushi,medium,Brooklyn,2:28,19:01,2,false
+874,The Thai Devil,Cuban,medium,Manhattan,9:04,12:55,4,true
+875,Modesty,Indian,medium,Brooklyn,5:58,20:21,3,false
+876,Babylon,Vegetarian,expensive,Manhattan,0:31,22:35,3,true
+877,The Boiling Dairy,Pizza,expensive,Manhattan,5:33,22:46,4,true
+878,Babylon,Pizza,expensive,Staten Island,2:15,20:06,1,true
+879,The Pearl,Seafood,medium,Queens,3:05,18:29,5,false
+880,The Private Fiddler,Pizza,expensive,Staten Island,5:54,17:11,2,true
+881,The Boiling Dairy,African,expensive,Staten Island,4:42,21:21,3,true
+882,The Private Fiddler,Cuban,expensive,Manhattan,10:02,17:27,4,true
+883,The Private Fiddler,Cuban,cheap,Manhattan,6:43,22:59,4,false
+884,Modesty,French,cheap,Staten Island,10:45,16:56,4,false
+885,The Pearl,Cuban,expensive,Bronx,4:44,22:14,3,false
+886,The Thai Devil,Asian,cheap,Queens,5:56,16:24,5,true
+887,The Private Fiddler,Sushi,cheap,Brooklyn,7:30,17:43,1,true
+888,The Thai Devil,Indian,medium,Queens,7:31,18:12,3,true
+889,The Imperial Ship,Seafood,expensive,Staten Island,4:20,16:35,2,false
+890,The Boiling Dairy,Seafood,medium,Queens,4:10,14:10,2,true
+891,The Ruby Spices,Seafood,medium,Bronx,11:45,19:07,1,true
+892,The Crown,Pizza,expensive,Brooklyn,11:11,23:11,2,false
+893,The Pearl,Indian,expensive,Manhattan,3:39,19:55,5,true
+894,The Caramel Star,Danish,medium,Manhattan,0:03,20:30,4,false
+895,The Greek Tiger,Seafood,cheap,Staten Island,5:31,17:18,2,false
+896,The Thai Devil,Indian,cheap,Brooklyn,5:40,22:09,5,true
+897,The Crown,Seafood,cheap,Brooklyn,2:55,21:07,2,true
+898,The Pearl,Indian,expensive,Staten Island,2:32,17:08,5,false
+899,The Boiling Dairy,Vegetarian,medium,Staten Island,1:15,13:18,4,true
+900,The Greek Tiger,Vegetarian,medium,Queens,4:29,23:49,1,true
+901,The Private Fiddler,Asian,medium,Bronx,4:04,22:40,3,true
+902,The Thai Devil,Burger,cheap,Queens,10:12,22:58,4,false
+903,The Pearl,African,cheap,Bronx,9:36,22:19,2,false
+904,The Noodle Oak,Asian,medium,Staten Island,3:17,19:49,3,true
+905,The Pearl,Indian,expensive,Bronx,6:40,22:25,1,false
+906,The Crown,Cuban,expensive,Manhattan,0:13,20:06,3,true
+907,The Thai Devil,Cuban,medium,Manhattan,10:10,18:27,4,false
+908,Babylon,Danish,medium,Staten Island,8:53,22:42,3,false
+909,The Garden,Cuban,expensive,Queens,4:03,17:28,5,false
+910,The Garden,Asian,cheap,Brooklyn,1:21,22:51,4,true
+911,The Noodle Oak,Sushi,expensive,Staten Island,7:47,22:09,1,true
+912,The Crown,Indian,medium,Queens,7:42,17:09,2,false
+913,Babylon,Indian,cheap,Bronx,3:06,16:33,5,false
+914,The Ruby Spices,Sushi,medium,Queens,2:59,16:46,3,false
+915,The Mountainview Bistro,French,cheap,Staten Island,1:52,16:17,1,true
+916,The Garden,African,cheap,Queens,4:18,18:08,3,false
+917,The Boiling Dairy,African,medium,Staten Island,2:33,16:48,5,true
+918,Babylon,Burger,expensive,Queens,8:46,12:29,1,true
+919,The Noodle Oak,Burger,expensive,Bronx,3:04,23:10,2,false
+920,The Greek Tiger,Asian,cheap,Manhattan,3:54,21:57,2,true
+921,The Greek Tiger,Burger,expensive,Queens,10:05,22:17,2,true
+922,Modesty,Seafood,expensive,Brooklyn,5:51,16:11,5,false
+923,The Noodle Oak,Danish,cheap,Manhattan,9:43,16:08,3,true
+924,The Painted Stranger,Seafood,cheap,Manhattan,1:17,23:53,3,true
+925,The Imperial Ship,Vegetarian,cheap,Staten Island,10:50,19:00,4,false
+926,Babylon,Burger,cheap,Manhattan,11:48,13:48,4,true
+927,The Painted Stranger,Indian,medium,Staten Island,8:54,20:34,4,false
+928,The Noodle Oak,Danish,medium,Staten Island,0:07,18:30,3,false
+929,The Ruby Spices,Cuban,medium,Bronx,5:28,17:19,5,true
+930,The Greek Tiger,Vegetarian,expensive,Manhattan,1:05,22:12,2,false
+931,The Ruby Spices,African,expensive,Manhattan,6:12,15:50,4,false
+932,The Pearl,Seafood,cheap,Staten Island,7:33,13:42,4,false
+933,The Crown,African,expensive,Manhattan,7:03,13:24,4,true
+934,The Pearl,French,cheap,Manhattan,4:46,22:11,3,true
+935,The Boiling Dairy,Vegetarian,cheap,Staten Island,1:43,23:45,1,true
+936,Modesty,Danish,medium,Brooklyn,6:45,16:17,3,false
+937,Babylon,Pizza,expensive,Manhattan,6:22,22:02,2,true
+938,The Crown,Burger,expensive,Brooklyn,3:02,12:58,3,true
+939,Modesty,Spanish,medium,Bronx,7:51,16:01,4,false
+940,The Garden,Sushi,cheap,Bronx,5:39,12:52,1,false
+941,The Private Fiddler,Sushi,medium,Bronx,6:46,22:12,4,true
+942,The Painted Stranger,Indian,cheap,Queens,0:43,19:27,4,true
+943,The Imperial Ship,Pizza,cheap,Bronx,10:01,20:16,2,true
+944,The Painted Stranger,Seafood,medium,Staten Island,10:39,13:30,4,true
+945,Babylon,Seafood,medium,Brooklyn,10:02,21:43,5,true
+946,The Greek Tiger,African,cheap,Bronx,2:40,18:41,3,false
+947,The Thai Devil,French,expensive,Queens,5:22,12:41,4,true
+948,The Caramel Star,Spanish,cheap,Queens,7:00,20:52,4,true
+949,The Mountainview Bistro,Burger,medium,Bronx,3:51,16:00,2,true
+950,The Imperial Ship,French,medium,Bronx,2:10,22:27,1,false
+951,The Painted Stranger,French,medium,Staten Island,0:53,17:35,1,false
+952,The Painted Stranger,Sushi,expensive,Staten Island,7:22,19:17,5,false
+953,The Noodle Oak,African,expensive,Queens,5:47,23:30,3,true
+954,Modesty,Asian,cheap,Queens,5:50,19:59,5,false
+955,The Pearl,Indian,medium,Brooklyn,4:15,20:42,4,true
+956,The Caramel Star,Seafood,medium,Brooklyn,3:40,21:03,2,true
+957,Modesty,Sushi,cheap,Brooklyn,9:48,16:19,4,true
+958,The Private Fiddler,Vegetarian,expensive,Manhattan,11:57,12:03,1,false
+959,The Private Fiddler,Indian,cheap,Manhattan,6:35,16:33,2,true
+960,The Noodle Oak,Vegetarian,expensive,Brooklyn,10:07,21:16,3,true
+961,The Thai Devil,African,expensive,Manhattan,6:50,21:46,2,true
+962,The Imperial Ship,Spanish,expensive,Manhattan,2:10,16:26,4,true
+963,The Greek Tiger,Indian,cheap,Staten Island,2:41,19:39,2,true
+964,The Boiling Dairy,African,expensive,Manhattan,4:38,23:53,2,true
+965,The Crown,Seafood,cheap,Staten Island,10:06,18:07,2,false
+966,The Boiling Dairy,Asian,medium,Bronx,2:07,15:03,1,true
+967,The Garden,Indian,cheap,Staten Island,11:03,12:47,4,true
+968,The Caramel Star,Burger,expensive,Manhattan,7:05,18:06,4,false
+969,The Crown,Pizza,medium,Bronx,4:49,13:04,5,true
+970,The Mountainview Bistro,Spanish,expensive,Manhattan,7:02,16:10,1,false
+971,The Boiling Dairy,African,cheap,Staten Island,0:26,14:50,2,false
+972,The Crown,Pizza,expensive,Staten Island,7:42,13:51,4,true
+973,The Noodle Oak,Cuban,cheap,Queens,9:13,22:12,2,true
+974,The Thai Devil,Danish,medium,Staten Island,2:24,21:16,4,true
+975,The Ruby Spices,Spanish,cheap,Bronx,8:55,14:50,5,true
+976,The Pearl,Pizza,cheap,Staten Island,2:23,19:06,5,true
+977,Babylon,Burger,cheap,Brooklyn,0:28,17:58,2,true
+978,The Boiling Dairy,Sushi,expensive,Bronx,11:45,21:12,4,true
+979,The Crown,Seafood,expensive,Manhattan,5:14,17:17,5,false
+980,The Garden,Spanish,medium,Staten Island,5:43,19:08,3,false
+981,The Thai Devil,Seafood,expensive,Queens,3:41,13:54,3,true
+982,The Caramel Star,Seafood,cheap,Manhattan,5:41,16:45,4,false
+983,The Thai Devil,Spanish,cheap,Staten Island,6:14,23:53,5,false
+984,Babylon,African,medium,Brooklyn,8:10,16:23,2,true
+985,The Crown,French,expensive,Staten Island,8:24,22:52,4,false
+986,The Imperial Ship,Danish,cheap,Staten Island,6:31,21:41,1,true
+987,The Caramel Star,Vegetarian,cheap,Bronx,7:38,21:02,3,false
+988,The Crown,African,medium,Brooklyn,8:25,19:50,1,false
+989,The Mountainview Bistro,Cuban,expensive,Bronx,1:41,17:02,4,true
+990,The Private Fiddler,Asian,cheap,Staten Island,11:43,12:43,2,true
+991,Modesty,French,expensive,Staten Island,8:03,20:59,2,false
+992,The Boiling Dairy,Spanish,medium,Bronx,9:23,18:10,1,true
+993,The Pearl,Pizza,expensive,Bronx,1:20,14:39,2,true
+994,The Painted Stranger,Asian,cheap,Brooklyn,1:30,23:41,1,true
+995,The Pearl,Vegetarian,cheap,Bronx,11:10,15:35,4,true
+996,The Greek Tiger,Pizza,cheap,Staten Island,0:51,17:06,3,false
+997,The Mountainview Bistro,French,cheap,Manhattan,8:18,13:32,1,false
+998,The Noodle Oak,Burger,cheap,Bronx,9:14,16:03,3,false
+999,The Noodle Oak,French,cheap,Manhattan,4:23,19:03,3,true
+1000,The Boiling Dairy,French,expensive,Brooklyn,11:50,16:25,2,false
